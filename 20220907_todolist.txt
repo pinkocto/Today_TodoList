@@ -4,3 +4,7 @@
  - 파이썬 기본 - 예외처리, 기본 프로그래밍, 주소록 만들어보기
  - jupyter notebook 실행 확인
  - 파이썬 라이브러리 - 파이썬 시각화
+ 
+ 
+ ** spyder에서 maplotlib graph가 안보이는 문제 해결
+ 
