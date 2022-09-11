@@ -1,0 +1,2 @@
+python (class 복습)
+pycharm 환경설정 (영상처리)
