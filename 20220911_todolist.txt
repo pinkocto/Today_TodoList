@@ -1,2 +1,4 @@
-python (class 복습)
-pycharm 환경설정 (영상처리)
+1. python (class 복습)
+2. pycharm 환경설정 (영상처리)
+  - openCV-python, matplotlib 라이브러리 설치
+  
