@@ -1,4 +1,31 @@
 1. python (class 복습)
+
+# 기본 클래스 형태
+class Cal:
+  def __init__(self):
+    self.result = 0
+    
+  def add(self, num):
+    self.result += num
+    return self.result
+    
+cal1 = Cal()
+cal2 = Cal() # 여기서 cal1, cal2는 객체라 부름, cal1, cal2는 Cal의 인스턴스
+
+# cal1, cal2 (객체)는 각각의 역할을 수행 (독립적)
+
+print(cal1.add(3))
+>3
+print(cal1.add(4))
+>7
+
+print(cal2.add(3))
+>3
+print(cal2.add(8))
+>11
+
+* 참고링크 : https://wikidocs.net/28
+
 2. pycharm 환경설정 (영상처리)
   - openCV-python, matplotlib 라이브러리 설치
   
