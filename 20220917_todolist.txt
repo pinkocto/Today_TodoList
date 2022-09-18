@@ -1,0 +1,4 @@
+[220918 To do list]
+
+* folium 실습
+* titanic 추가분석
