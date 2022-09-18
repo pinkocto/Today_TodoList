@@ -1,0 +1,5 @@
+[220918 to do list]
+* 태블로 학습 > 태블로로 타이타닉 시각화
+* plotly 사용해보기
+* Pandas 복습
+* California 추가 분석 및 내용 정리
