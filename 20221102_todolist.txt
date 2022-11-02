@@ -1,3 +1,4 @@
 [2022/11/02] TodoList
 
 1. Amex github에 정리
+2. 배운 내용 정리
