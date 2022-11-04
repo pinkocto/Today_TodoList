@@ -1,5 +1,5 @@
 [2022/11/04] - TodoList
 
-1. 
-2.
-3.
+1. 깃헙 정리 
+2. EDA 추가 분석 (AMEX) , GA알고리즘 공부
+3. cancer , baseline colde 돌려보기 
