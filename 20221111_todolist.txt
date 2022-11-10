@@ -1,0 +1,3 @@
+[2022/11/11 TodayTodoList]
+1. 지식증류란? (논문리뷰)
+2. Tumor Classification 논문 분석
