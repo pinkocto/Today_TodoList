@@ -1,4 +1,4 @@
 [2022/11/16 TodayTodoList]
 
-1. 
-2.
+1. pytorch 공부 시작
+
